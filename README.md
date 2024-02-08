@@ -18,8 +18,9 @@ Welcome to My Daily Diary Website! This web application allows users to maintain
 - **Stylish UI:** The user interface is designed with a modern and visually appealing style.
 
 ## Screenshots
-![Homepage](screenshots/homepage.png)
-![Diary Entry](screenshots/diary-entry.png)
+![image](https://github.com/KyatramoniRakesh/Dairy/assets/93992093/b9ca9dc8-3870-4a6d-86aa-eb680977ee99)
+![image](https://github.com/KyatramoniRakesh/Dairy/assets/93992093/6b95e865-08a5-490d-8429-28f40b92069a)
+
 
 ## Installation
 1. **Clone the repository:**
